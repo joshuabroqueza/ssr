@@ -1,0 +1,21 @@
+.header {
+  padding-top: 20px;
+}
+
+.headerLogo > img {
+  height: 200px;
+  padding-right: 80px;
+  /* margin-left: 10px; */
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.headerText {
+  padding-left: 130px;
+  font-family: "Zen Tokyo Zoo";
+  font-size: 70px;
+  color: #f2a951;
+}
