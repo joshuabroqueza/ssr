@@ -1,0 +1,23 @@
+.cards-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  overflow-x: auto;
+  justify-content: center;
+  padding: 40px;
+}
+
+.foodmenu > h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #fbf8ef;
+  padding-left: 40px;
+  font-weight: 500;
+  font-size: 100px;
+}
+
+.foodmenu > p {
+  color: #fdecc1;
+  padding-left: 40px;
+  font-weight: 200;
+  font-size: 40px;
+}
