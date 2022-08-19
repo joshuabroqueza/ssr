@@ -1,0 +1,22 @@
+.footer > img {
+  height: 50px;
+  width: auto;
+  padding: 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer--header {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.fheader {
+  padding-left: 10px;
+  padding-right: 40px;
+  color: white;
+}

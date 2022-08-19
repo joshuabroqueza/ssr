@@ -1,0 +1,17 @@
+.socials {
+  display: flex;
+  flex: row;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: whitesmoke;
+}
+
+.socials > h5 {
+  padding-right: 20px;
+}
+
+.socials > span > img {
+  height: 20px;
+  padding-right: 10px;
+}

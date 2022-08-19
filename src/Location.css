@@ -1,0 +1,37 @@
+.location {
+  background-color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.location--right {
+  padding-top: 30px;
+  padding-left: 20px;
+}
+
+.location--right > h2 {
+  font-size: 40px;
+}
+
+.location--right > p {
+  font-size: 15px;
+}
+
+.location--right > button {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  padding: 13px 73px;
+  font-size: 14px;
+  border-radius: 0%;
+  background-color: red;
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+.location--left > img {
+  height: 450px;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
